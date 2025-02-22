@@ -43,7 +43,6 @@ A list of 50 app ideas to build using reactive state libraries
 40. Minesweeper game
 41. Budget and expenses tracker
 42. Palindrome maker
-43. Madlibs
 44. Theme changer
 45. Workout generator
 46. Caesar Cipher
